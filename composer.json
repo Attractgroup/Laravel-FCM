@@ -1,5 +1,5 @@
 {
-    "name": "brozot/laravel-fcm",
+    "name": "attract/laravel-fcm",
     "description": "Laravel / Lumen package for Firebase Cloud Messaging ",
     "keywords": ["laravel", "lumen", "firebase", "notification", "push", "fcm", "firebase cloud messaging"],
     "type": "library",
@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "5.*|^6",
-        "guzzlehttp/guzzle": "~6.0",
+        "illuminate/support": "7.16.1",
+        "guzzlehttp/guzzle": "6.5.5",
         "monolog/monolog": "^1.12|^2.0"
     },
     "require-dev": {
